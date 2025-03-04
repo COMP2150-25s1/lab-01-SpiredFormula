@@ -1,0 +1,33 @@
+Level Design Notes
+
+INTERNAL QA
+
+Are there any jumps that can't be made?
+No
+
+Are there opportunities for the player to get stuck and unable to make progress?
+Yes if the player falls off the world they will infinity fall
+
+Can the player always see what they need to see?
+yes near the end of the level the player cannot see some platforms
+
+Are there any mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways?
+Yes falling off the map causes the player to infinity fall  
+
+PLAY TEST 1
+
+Type of level: Exploratory Experience
+
+If you found any did you think the secrets where satisfying to find?
+
+Did you think the platforming up the mountain was frustrating or really easy?
+
+Are there any specific areas that should be a bit easier or harder?
+
+Play Test 2 
+
+Target audience: People who come have after work or school and play games on there console
+
+Do you enjoy exploration and discovery in games?
+
+Do you enjoy a bit of a small challenge or prefer easy games?
